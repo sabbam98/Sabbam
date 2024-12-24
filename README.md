@@ -1,5 +1,5 @@
-[![MasterHead](https://insights.daffodilsw.com/hs-fs/hubfs/Embedded%20Software%20System.webp?width=11668&height=5000&name=Embedded%20Software%20System.webp)]
-<h1 align="center">Hi 👋, I'm sabbam</h1>
+![MasterHead](https://insights.daffodilsw.com/hs-fs/hubfs/Embedded%20Software%20System.webp?width=11668&height=5000&name=Embedded%20Software%20System.webp)
+<h1 align="center">Hi 👋, I'm Sabbam 👋 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
